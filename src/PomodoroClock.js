@@ -1,7 +1,7 @@
 import React from "react";
 
-const workTime = 0.2;
-const breakTime = 0.1;
+const workTime = 25;
+const breakTime = 5;
 
 class PomodoroClock extends React.Component {
 
